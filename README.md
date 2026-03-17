@@ -1,6 +1,6 @@
 # UART Receiver (RX) in Verilog
 
-This module complements the [uart-verilog](https://github.com/hominhthao/uart-verilog)
+This module complements the [uart-tx-verilog](https://github.com/hominhthao/uart-tx-verilog)
 transmitter to form a complete **full-duplex UART (8N1)** implementation.
 
 ## Overview
