@@ -1,0 +1,3 @@
+.DS_Storesim/uart_rx_sim
+sim/uart_loopback_sim
+*.vcd
